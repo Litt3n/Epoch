@@ -1628,10 +1628,10 @@ if (true) then
 _vehicle_6037 = objNull;
 if (true) then
 {
-  _this = createVehicle ["MAP_HouseBlock_B4", [1674.2037, 2088.4956, -0.21552771], [], 0, "CAN_COLLIDE"];
+  _this = createVehicle ["MAP_HouseBlock_B4", [1674.5415, 2089.4038, -0.21552771], [], 0, "CAN_COLLIDE"];
   _vehicle_6037 = _this;
   _this setDir 18.77187;
-  _this setPos [1674.2037, 2088.4956, -0.21552771];
+  _this setPos [1674.5415, 2089.4038, -0.21552771];
 };
 
 _vehicle_6050 = objNull;
